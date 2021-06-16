@@ -2,9 +2,16 @@
 A new Flutter application.
 
 ## App Snapshots
-** Android **
+**Android**
+
 ![Android Snapshot PNG](https://user-images.githubusercontent.com/32494274/122253839-8a915d80-ce9a-11eb-888e-2bb072ba2632.png)
+
+**Chrome**
+
 ![Chrome Snapshot PNG](https://raw.githubusercontent.com/arctdav/flutter-random-joke/master/README_asset/chrome_snapshot.png)
+
+**Windows**
+
 ![Windows Snapshot PNG](https://raw.githubusercontent.com/arctdav/flutter-random-joke/master/README_asset/windows_snapshot.png)
 
 ## Getting Started
