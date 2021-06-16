@@ -1,5 +1,9 @@
 # Random Joke Generator
-A new Flutter application.
+A new Flutter application that generates random jokes, according to the catagories chosen. 
+
+Below is a list of the API endpoint used:
+- https://v2.jokeapi.dev/joke/Any
+- https://v2.jokeapi.dev/joke/[Category/-ies]
 
 ## App Snapshots
 **Android**
